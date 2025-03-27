@@ -1,0 +1,36 @@
+body
+{
+    font-family: "Times New Roman", serif;
+
+}
+
+button
+{
+    background-color: rgb(245, 94, 94);
+    font-weight: bold;
+    font-size: 24px;
+    margin: 5px;
+}
+
+h1, h2, h3 
+{
+    text-align: center;
+    color: rgb(7, 206, 7);
+}
+
+.a
+{
+font-size: 36px;
+text-align: center;
+color: rgb(7, 206, 7);
+}
+
+.b
+{
+    font-size: 54px;
+}
+
+p
+{
+    font-size: 18px;
+}
